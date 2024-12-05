@@ -1,4 +1,4 @@
-# Recap Project 6: Tourio App
+# Recap Project: Tourio App
 
 The Tourio App helps you keep track of sights you want to visit by allowing you to add, edit, and delete places. It even comes with a comment section for each place so you can leave notes or share thoughts about your favorite destinations.
 
